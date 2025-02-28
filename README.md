@@ -725,7 +725,6 @@ By completing this project, I have gained a deeper understanding of how SQL can 
 
 ---
 
-### **Entity Relationship Diagram (ERD)**
 
 
 ---
